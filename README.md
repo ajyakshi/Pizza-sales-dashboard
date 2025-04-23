@@ -8,6 +8,8 @@
 -  Identify which pizza category is hot selling
 
 **About the dataset:**
+https://github.com/Ayushi0214/Datasets/tree/main/pizza_sales
+
 This dataset contains 4 tables in CSV format
 
 -The Orders table contains the date & time that all table orders were placed
@@ -22,6 +24,9 @@ This dataset contains 4 tables in CSV format
 - Connected and transformed raw data from in Power BI
 - Re-modelled the data relationship.
 - Created measures 
+**Dashboard**
+
+  ![power bi jpg](https://github.com/user-attachments/assets/419adfa0-8281-4b91-931a-f27ac04bf60d)
 
 **Key Insights**
 •	12.00 to 01.00 PM is the busiest hour in the day contributing to peak hours with highest revenue generated and 10. 00 PM to 11.00 PM is the time when we are getting lowest orders.
