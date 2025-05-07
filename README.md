@@ -48,7 +48,7 @@ This dataset contains 4 tables in CSV format
 
 
 **Recommendations**
-To increase the figures on the annual sales of the pizza place the following are the recommendation I provide:
+To increase the annual sales of the pizza  the following recommendations I provide:
 
 •	Increasing and promoting the large and classic pizza as they are more preferred that the rest of the size and category.
 
